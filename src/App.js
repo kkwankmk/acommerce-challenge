@@ -1,14 +1,14 @@
 import React from "react";
 
-import { LISTS } from "./constants";
+import { LISTS } from "./components/constants";
 import Content from "./components/content";
 import Pagination from "./components/pagination";
 import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <div className="Item">
+    <div className="app">
+      <div className="item">
         Items 1 - {LISTS.length} of {LISTS.length}
       </div>
       <Content lists={LISTS} />

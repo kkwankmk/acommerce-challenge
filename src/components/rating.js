@@ -4,13 +4,13 @@ import { Icon } from "antd";
 export default ({ vote }) => {
   const rates = [];
 
-  for (let i = 0; i < vote; i++) {
+  for (let i = 0; i < 5; i++) {
     rates.push(
       <Icon
         theme="filled"
         type="star"
         key={i}
-        style={{ color: "#e93022", marginRight: "5px" }}
+        style={{ color: i < vote ? "#e93022" : "#cccccc", marginRight: "5px" }}
       />
     );
   }

@@ -13,7 +13,6 @@ const StyledDescription = styled.div`
 `;
 
 const StyledTitle = styled.div`
-  width: 90%;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -39,7 +38,7 @@ const renderDescription = list => (
 
 export default ({ lists }) => {
   return (
-    <Row gutter={16} type="flex">
+    <Row type="flex">
       {lists.map(list => (
         <StyledCol xs={24} md={6} key={list.title}>
           <Card
