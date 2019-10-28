@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1d28b026f581dc940457cb7ebcbb8a3",
+    "revision": "58249a3264a6a53598f4514c5a81c7cc",
     "url": "/acommerce-challenge/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/acommerce-challenge/static/css/2.65d0fb34.chunk.css"
   },
   {
-    "revision": "cf0c2ca626480d22891d",
-    "url": "/acommerce-challenge/static/css/main.a33f0850.chunk.css"
+    "revision": "7d82dca5866c1ebdbb31",
+    "url": "/acommerce-challenge/static/css/main.e08bb410.chunk.css"
   },
   {
     "revision": "ccd9c9723c3c0a68465b",
     "url": "/acommerce-challenge/static/js/2.d0dfc15f.chunk.js"
   },
   {
-    "revision": "cf0c2ca626480d22891d",
-    "url": "/acommerce-challenge/static/js/main.f8910af1.chunk.js"
+    "revision": "7d82dca5866c1ebdbb31",
+    "url": "/acommerce-challenge/static/js/main.a4ad4f64.chunk.js"
   },
   {
     "revision": "8e9bda20470ed64051ad",
