@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a33f0850.chunk.css",
-    "main.js": "/static/js/main.6e4d199d.chunk.js",
-    "main.js.map": "/static/js/main.6e4d199d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.91afb234.js",
-    "runtime-main.js.map": "/static/js/runtime-main.91afb234.js.map",
-    "static/css/2.65d0fb34.chunk.css": "/static/css/2.65d0fb34.chunk.css",
-    "static/js/2.0fe31588.chunk.js": "/static/js/2.0fe31588.chunk.js",
-    "static/js/2.0fe31588.chunk.js.map": "/static/js/2.0fe31588.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.66fade3fe2632844d636f3edd1bdb5c7.js": "/precache-manifest.66fade3fe2632844d636f3edd1bdb5c7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.65d0fb34.chunk.css.map": "/static/css/2.65d0fb34.chunk.css.map",
-    "static/css/main.a33f0850.chunk.css.map": "/static/css/main.a33f0850.chunk.css.map"
+    "main.css": "/acommerce-challenge/static/css/main.a33f0850.chunk.css",
+    "main.js": "/acommerce-challenge/static/js/main.f8910af1.chunk.js",
+    "main.js.map": "/acommerce-challenge/static/js/main.f8910af1.chunk.js.map",
+    "runtime-main.js": "/acommerce-challenge/static/js/runtime-main.283fcb7e.js",
+    "runtime-main.js.map": "/acommerce-challenge/static/js/runtime-main.283fcb7e.js.map",
+    "static/css/2.65d0fb34.chunk.css": "/acommerce-challenge/static/css/2.65d0fb34.chunk.css",
+    "static/js/2.d0dfc15f.chunk.js": "/acommerce-challenge/static/js/2.d0dfc15f.chunk.js",
+    "static/js/2.d0dfc15f.chunk.js.map": "/acommerce-challenge/static/js/2.d0dfc15f.chunk.js.map",
+    "index.html": "/acommerce-challenge/index.html",
+    "precache-manifest.153b1f8d12bcae30d240f4b66d77231e.js": "/acommerce-challenge/precache-manifest.153b1f8d12bcae30d240f4b66d77231e.js",
+    "service-worker.js": "/acommerce-challenge/service-worker.js",
+    "static/css/2.65d0fb34.chunk.css.map": "/acommerce-challenge/static/css/2.65d0fb34.chunk.css.map",
+    "static/css/main.a33f0850.chunk.css.map": "/acommerce-challenge/static/css/main.a33f0850.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.91afb234.js",
+    "static/js/runtime-main.283fcb7e.js",
     "static/css/2.65d0fb34.chunk.css",
-    "static/js/2.0fe31588.chunk.js",
+    "static/js/2.d0dfc15f.chunk.js",
     "static/css/main.a33f0850.chunk.css",
-    "static/js/main.6e4d199d.chunk.js"
+    "static/js/main.f8910af1.chunk.js"
   ]
 }
