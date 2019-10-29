@@ -15,11 +15,29 @@ const StyledPagination = styled.div`
   text-align: center;
 `;
 
-export default ({ page, total = 2 }) => {
+const itemRender = ({ type, onPageChange }) => {
+  const symbol = type === "prev" ? "<" : ">";
+
+  return (
+    <Button
+      background={"#d0d0d0"}
+      color={"#ffffff"}
+      onClick={() => onPageChange()}
+    >
+      {symbol}
+    </Button>
+  );
+};
+
+export default ({ page, total, onPageChange }) => {
   const paginates = [];
   for (let i = 1; i <= total; i++) {
     paginates.push(
-      <Button key={i} background={page === i && "#de564e"}>
+      <Button
+        key={i}
+        background={page === i && "#de564e"}
+        onClick={() => onPageChange(i)}
+      >
         {i}
       </Button>
     );
@@ -27,10 +45,18 @@ export default ({ page, total = 2 }) => {
 
   return (
     <StyledPagination>
+      {page !== 1 &&
+        total !== 1 &&
+        itemRender({
+          type: "prev",
+          onPageChange: () => onPageChange(page - 1)
+        })}
       {paginates}
-      <Button background={"#d0d0d0"} color={"#ffffff"}>
-        >
-      </Button>
+      {total !== page &&
+        itemRender({
+          type: "next",
+          onPageChange: () => onPageChange(page + 1)
+        })}
     </StyledPagination>
   );
 };

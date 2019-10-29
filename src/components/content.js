@@ -40,7 +40,7 @@ export default ({ lists }) => {
   return (
     <Row type="flex">
       {lists.map(list => (
-        <StyledCol xs={24} md={6} key={list.title}>
+        <StyledCol xs={24} md={6} key={list.id}>
           <Card
             hoverable={true}
             bordered={false}

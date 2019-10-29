@@ -94,5 +94,45 @@ export const LISTS = [
     price: 10,
     image_url: "http://lorempixel.com/320/240?random1",
     created_at: "2018-12-18 22:01:15"
+  },
+  {
+    id: 13,
+    title: "How To Make More ACOMMERCE By Doing Less",
+    vote: 5,
+    price: 4200,
+    image_url: "http://lorempixel.com/320/240?random1",
+    created_at: "2018-12-08 17:01:15"
+  },
+  {
+    id: 14,
+    title: "11 Methods Of ACOMMERCE Domination",
+    vote: 0,
+    price: 15100,
+    image_url: "http://lorempixel.com/320/240?random1",
+    created_at: "2018-12-08 17:01:15"
+  },
+  {
+    id: 15,
+    title: "What Is ACOMMERCE and How Does It Work?",
+    vote: 1,
+    price: 1235200,
+    image_url: "http://lorempixel.com/320/240?random1",
+    created_at: "2018-12-08 17:01:15"
+  },
+  {
+    id: 16,
+    title: "ACOMMERCE Smackdown!",
+    vote: 0,
+    price: 6,
+    image_url: "http://lorempixel.com/320/240?random1",
+    created_at: "2018-12-08 17:01:15"
+  },
+  {
+    id: 17,
+    title: "5 Ways ACOMMERCE Will Help You Get More Business",
+    vote: 2,
+    price: 10,
+    image_url: "http://lorempixel.com/320/240?random1",
+    created_at: "2018-12-18 22:01:15"
   }
 ];
