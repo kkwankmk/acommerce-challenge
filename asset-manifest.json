@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/acommerce-challenge/static/css/main.e08bb410.chunk.css",
-    "main.js": "/acommerce-challenge/static/js/main.a4ad4f64.chunk.js",
-    "main.js.map": "/acommerce-challenge/static/js/main.a4ad4f64.chunk.js.map",
+    "main.js": "/acommerce-challenge/static/js/main.48acf338.chunk.js",
+    "main.js.map": "/acommerce-challenge/static/js/main.48acf338.chunk.js.map",
     "runtime-main.js": "/acommerce-challenge/static/js/runtime-main.283fcb7e.js",
     "runtime-main.js.map": "/acommerce-challenge/static/js/runtime-main.283fcb7e.js.map",
     "static/css/2.65d0fb34.chunk.css": "/acommerce-challenge/static/css/2.65d0fb34.chunk.css",
-    "static/js/2.d0dfc15f.chunk.js": "/acommerce-challenge/static/js/2.d0dfc15f.chunk.js",
-    "static/js/2.d0dfc15f.chunk.js.map": "/acommerce-challenge/static/js/2.d0dfc15f.chunk.js.map",
+    "static/js/2.bd838b58.chunk.js": "/acommerce-challenge/static/js/2.bd838b58.chunk.js",
+    "static/js/2.bd838b58.chunk.js.map": "/acommerce-challenge/static/js/2.bd838b58.chunk.js.map",
     "index.html": "/acommerce-challenge/index.html",
-    "precache-manifest.f3f17ddda047e57f37b6ad4232d0847a.js": "/acommerce-challenge/precache-manifest.f3f17ddda047e57f37b6ad4232d0847a.js",
+    "precache-manifest.853185a74a02b6de1f4a2393af349b9b.js": "/acommerce-challenge/precache-manifest.853185a74a02b6de1f4a2393af349b9b.js",
     "service-worker.js": "/acommerce-challenge/service-worker.js",
     "static/css/2.65d0fb34.chunk.css.map": "/acommerce-challenge/static/css/2.65d0fb34.chunk.css.map",
     "static/css/main.e08bb410.chunk.css.map": "/acommerce-challenge/static/css/main.e08bb410.chunk.css.map"
@@ -17,8 +17,8 @@
   "entrypoints": [
     "static/js/runtime-main.283fcb7e.js",
     "static/css/2.65d0fb34.chunk.css",
-    "static/js/2.d0dfc15f.chunk.js",
+    "static/js/2.bd838b58.chunk.js",
     "static/css/main.e08bb410.chunk.css",
-    "static/js/main.a4ad4f64.chunk.js"
+    "static/js/main.48acf338.chunk.js"
   ]
 }
